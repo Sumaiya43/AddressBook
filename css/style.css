@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body
+{
+    font-family: 'Cairo', sans-serif;
+    
+    
+}
+
+.container
+{
+    padding-top: 20px;
+}
+.rounded
+{
+    border-radius: 20rem;
+}
+
